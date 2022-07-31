@@ -22,3 +22,8 @@ Open code for calculating individual movement patterns from long-term GPS locati
     g. Concatenate each time to the empty dataset created earlier for max daily displacement and total flight duration per day.
     
     
+    
+  EntireMetaDataWithAllNetworkCentralitiesIndividualCharacteristics:
+  All the individuals' movement metrics 50% use area, 95% use area using KDE, movement personality = KDE50/KDE95, average daily displacement, average flight duration, Shannon roost fidelity for each individual as a measure of the diversity of roosts or fidelity to roosts that each individual displays within and across seasons,  multilayer network versatility, and network centralities including Degree, Strength, PageRank, Hub, Authority in each of the social situation (co-flight, co-roosting, co-feeding) and the population level aggregate network. The individual characteristics include tag numbers, origin, birth year, age, age class - Juvenile (<5 years) or adult (>4 years), sex, and deployment region. This can be used to understand the seasonal, sex-based, origin-based, or region (KDE)-based correlations to individual social connectivity using the code 'MovementPatternsAsAFunctionOfIndividualCharacteristics.R'
+    
+    
