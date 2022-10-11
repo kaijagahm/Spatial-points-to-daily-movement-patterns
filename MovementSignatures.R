@@ -1,7 +1,3 @@
-#initialize working space
-rm(list=ls()) #clean workspace
-graphics.off() #close all plots
-
 ########################    coflight 2021   ##################
 
 #### loading packages #######
