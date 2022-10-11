@@ -7,6 +7,7 @@ library(spatsoc);library("asnipe");library("igraph"); # for working with the SN 
 library(reshape);library(data.table) #for the manual section where i build the SN myself
 library(adehabitatLT);
 library(moveVis)
+library(vultureUtils) # package developed by Kaija to make network analyses easier. github.com/kaijagahm/vultureUtils. Use devtools::install_github("kaijagahm/vultureUtils") to install.
 source('C:/XXXXX/MyCodes/createDirectedMatrices.R')
 
 #### key paramterer values ######
