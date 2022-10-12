@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+MovementSignatures.R
+movebankCredentials/
+.DS_Store
