@@ -5,3 +5,4 @@
 MovementSignatures.R
 movebankCredentials/
 .DS_Store
+data/
